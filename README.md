@@ -59,8 +59,8 @@ I-am-zeqcv@github
 <div align="center">
 <h2 align="center">My Github Stats...</h2>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Egrus&show_icons=true&theme=tokyonight)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=egrus&theme=tokyonight&mode=daily)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeqcv&show_icons=true&theme=tokyonight)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zeqcv&theme=tokyonight&mode=daily)](https://git.io/streak-stats)
 </div>
 <hr>
 
